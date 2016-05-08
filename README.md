@@ -1,5 +1,5 @@
 #rpvideo  版本 v1.5
-http://v.rpsofts.com/     （因某些众所周知的原因，停止更新，不再发布最新解析源码，如有需要请参考https://github.com/soimort/you-get，）  
+###http://v.rpsofts.com/     （因某些众所周知的原因，停止更新，不再发布最新解析源码，如有需要请参考https://github.com/soimort/you-get，）  
 支持youku，音乐台等国内一大批网站 不一一列举了。
 
 php解析国内视频站点解析源码。。。普通php空间即可运行，，无额外要求。。。  
