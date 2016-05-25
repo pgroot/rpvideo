@@ -1,10 +1,9 @@
 ## rpvideo
 ### 版本
-v1.5
+v1.5  说明：http://v.rpsofts.com/app/doc/rpv.html
 ### 简介
 http://v.rpsofts.com   /源码。。。。
 
-说明：http://v.rpsofts.com/app/doc/rpv.html
 ![网站截图](http://ww3.sinaimg.cn/large/6ff5e63ajw1f47izvip94j211t0hxwhb.jpg)
 
 支持youku，音乐台等国内一大批网站 不一一列举了。
