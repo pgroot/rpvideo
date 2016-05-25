@@ -1,10 +1,10 @@
 #rpvideo  版本 v1.5
 http://v.rpsofts.com   /源码。。。。
 支持youku，音乐台等国内一大批网站 不一一列举了。
-![网站截图](http://ww3.sinaimg.cn/large/6ff5e63ajw1f47izvip94j211t0hxwhb.jpg)
+![](http://ww3.sinaimg.cn/large/6ff5e63ajw1f47izvip94j211t0hxwhb.jpg)
 
 单视频演示：例如：http://v.rpsofts.com/v.php?url=http://v.youku.com/v_show/id_XMTI4NTY3MTY1Mg==.html
-![视频演示](http://ww1.sinaimg.cn/large/6ff5e63ajw1f47j0hozdvj20z10hxwhx.jpg)
+![](http://ww1.sinaimg.cn/large/6ff5e63ajw1f47j0hozdvj20z10hxwhx.jpg)
 php解析国内视频站点解析源码。。。普通php空间即可运行，，无额外要求。。。  
 
 播放器使用ckplayer，，皮肤是以前仿芒果台做的，，此外如需更换播放器logo，，及版权显示的话，，，请player\style.swf及播放器js文件
